@@ -6,8 +6,12 @@ const imageFilenames = [
   {file: 'erika_chibizinha.png'},
   {file: 'Nayara.png'},
   {file: 'streamer.png'},
-  {file: 'yes.png', censored: true,},
+  {file: 'icon jp.png'},
   {skip: true},
+  {file: 'icn.png'},
+  {file: 'chibi cristally.png'},
+  {file: 'ea.png'},
+  {file: 'cristally com assinatura.png', censored: true},
 ];
 
 // Get all column elements
