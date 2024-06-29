@@ -11,7 +11,6 @@ const imageFilenames = [
   {file: 'icn.png'},
   {file: 'chibi cristally.png'},
   {file: 'ea.png'},
-  {file: 'cristally com assinatura.png', censored: true},
 ];
 
 // Get all column elements
